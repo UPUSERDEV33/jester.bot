@@ -1,0 +1,6 @@
+owner=588088471848222770
+prefix=1
+game=B7R | 1play
+stayinchannel=true
+songinstatus=false
+token=NjE1Mjc3MzgzNTgyMzUxNDk5.XXOZ6A.2pbxlfVMizi_qhO7I84aFZ5NCcA

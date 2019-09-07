@@ -1,1 +1,1 @@
-# jester.bot
+# Jmusic
